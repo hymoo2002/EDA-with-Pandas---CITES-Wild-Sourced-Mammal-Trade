@@ -17,7 +17,7 @@ st.caption("Legal international trade in wild-caught mammals, 2016–2024. Data:
 # Load & clean data
 @st.cache_data
 def load_data():
-    raw = pd.read_csv("net_imports_2026-07-11_19_22_comma_separated.csv")
+    raw = pd.read_csv("data_dashboard/net_imports_2026-07-11_19_22_comma_separated.csv")
     df = raw.drop(columns=["2025", "2026"], errors="ignore").dropna(subset=["Country"])
     df["Unit"] = df["Unit"].fillna("Number of specimens")
 
