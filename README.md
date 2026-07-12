@@ -2,6 +2,10 @@
 
 An exploratory data analysis of the international legal trade in wild-sourced mammals, using data from the CITES Trade Database (2016–2024).
 
+## Dashboard\_Deployed
+
+https://eda-with-pandas-cites-wild-sourced-mammal-trade.streamlit.app/
+
 ## Dataset
 
 * **Source**: [CITES Trade Database](https://trade.cites.org/)
@@ -12,15 +16,15 @@ An exploratory data analysis of the international legal trade in wild-sourced ma
 
 |File|Description|
 |-|-|
-|`Ebrahim\_Maki\_EDA\_Project\_Notebook.ipynb`|Jupyter notebook — cleaning, visualization, and findings|
-|`Ebrahim\_Maki\_EDA\_Project\_Presentation.pptx`|Presentation slides|
-|`net\_imports\_2026-07-11 19\_22\_comma\_separated.csv`|Raw dataset downloaded from CITES|
+|`Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Notebook.ipynb`|Jupyter notebook — cleaning, visualization, and findings|
+|`Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Presentation.pptx`|Presentation slides|
+|`net\\\_imports\\\_2026-07-11 19\\\_22\\\_comma\\\_separated.csv`|Raw dataset downloaded from CITES|
 
 ## How to run
 
 ```bash
 pip install pandas matplotlib
-jupyter notebook Ebrahim\_Maki\_EDA\_Project\_Notebook.ipynb
+jupyter notebook Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Notebook.ipynb
 ```
 
 Then click **Run All**.
