@@ -16,7 +16,7 @@ https://eda-with-pandas-cites-wild-sourced-mammal-trade.streamlit.app/
 
 |File|Description|
 |-|-|
-|`Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Notebook.ipynb`|Jupyter notebook — cleaning, visualization, and findings|
+|`Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Notebook.ipynb`|Jupyter notebook - cleaning, visualization, and findings|
 |`Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Presentation.pptx`|Presentation slides|
 |`net\\\_imports\\\_2026-07-11 19\\\_22\\\_comma\\\_separated.csv`|Raw dataset downloaded from CITES|
 
@@ -31,7 +31,7 @@ Then click **Run All**.
 
 ## Problem statement
 
-> Legal wild-mammal trade is steady, concentrated in wealthy Western demand, and dominated by hunting trophies of iconic species — elephants, leopards, and lions.
+> Legal wild-mammal trade is steady, concentrated in wealthy Western demand, and dominated by hunting trophies of iconic species - elephants, leopards, and lions.
 
 ## Author
 
