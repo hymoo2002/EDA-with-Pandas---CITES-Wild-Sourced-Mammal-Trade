@@ -16,15 +16,15 @@ https://eda-with-pandas-cites-wild-sourced-mammal-trade.streamlit.app/
 
 |File|Description|
 |-|-|
-|`Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Notebook.ipynb`|Jupyter notebook - cleaning, visualization, and findings|
-|`Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Presentation.pptx`|Presentation slides|
-|`net\\\_imports\\\_2026-07-11 19\\\_22\\\_comma\\\_separated.csv`|Raw dataset downloaded from CITES|
+|`Ebrahim_Maki_EDA_Project_Notebook.ipynb`|Jupyter notebook - cleaning, visualization, and findings|
+|`Ebrahim_Maki_EDA_Project_Presentation.pptx`|Presentation slides|
+|`net_imports_2026-07-11 19_22_comma_separated.csv`|Raw dataset downloaded from CITES|
 
 ## How to run
 
 ```bash
 pip install pandas matplotlib
-jupyter notebook Ebrahim\\\_Maki\\\_EDA\\\_Project\\\_Notebook.ipynb
+jupyter notebook Ebrahim_Maki_EDA_Project_Notebook.ipynb
 ```
 
 Then click **Run All**.
